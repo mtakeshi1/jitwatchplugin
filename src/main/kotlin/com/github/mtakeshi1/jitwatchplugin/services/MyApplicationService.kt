@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mtakeshi1.jitwatchplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mtakeshi1.jitwatchplugin.MyBundle
 
 class MyApplicationService {
 
